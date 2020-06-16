@@ -1,0 +1,25 @@
+.itemCardContainer {
+  width: 80%;
+  margin: auto;
+}
+
+.itemCardContent {
+  margin-top: 10px;
+  border-radius: 20px;
+  background-color: white;
+  box-shadow: 5px 5px 5px gray;
+  padding: 10px 10px;
+}
+
+.purchased {
+  color: red;
+}
+
+.notPurchased {
+  color: gray;
+}
+
+.itemInfoSection {
+  padding: 10px 10px;
+  text-align: left;
+}

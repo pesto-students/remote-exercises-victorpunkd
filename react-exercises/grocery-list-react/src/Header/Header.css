@@ -1,0 +1,39 @@
+.headerContainer {
+  width: 100%;
+  box-shadow: 0px 10px 10px gray;
+  height: 120px;
+  color: gray !important;
+  background-color: white;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  padding: 5px 0px;
+}
+
+.heading {
+  margin-top: 10px;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.inputBox {
+  margin-top: 10px;
+  width: 80%;
+  border: none;
+  border-bottom: 1px solid gray;
+  font-size: 17px;
+  color: gray;
+}
+
+.button {
+  margin-top: 10px;
+  border: none;
+  background-color: #133c55;
+  color: white;
+  width: 80%;
+  border-radius: 20px;
+  font-size: 15px;
+  padding: 5px 5px;
+  cursor: pointer;
+  font-weight: 600;
+  box-shadow: 5px 5px 10px gray;
+}

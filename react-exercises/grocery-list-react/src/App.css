@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  background-color: #cfd4c5;
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+}
+
+.appContainer {
+  margin: 0;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  border-radius: 20px;
+  height: 90%;
+  width: 360px;
+  color: white;
+  background-color: #7692ff;
+  margin: auto;
+  box-shadow: 10px 10px 10px gray;
+}
+
+.groceryItemList {
+  margin-top: 20px;
+  max-height: 55vh;
+  overflow-y: scroll;
+}
